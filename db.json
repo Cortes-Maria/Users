@@ -1,0 +1,22 @@
+{
+  "users" : [
+    {
+      "email": "prueba@mail.com",
+       "zones" : [
+          {
+            "name": "Parrita",
+            "isInterested": true
+          },
+          {
+            "name": "Chepe",
+            "isInterested": false
+          },
+          {
+            "name": "Alajuela",
+            "isInterested": true
+          }
+       ]
+    },
+  ]
+}
+
